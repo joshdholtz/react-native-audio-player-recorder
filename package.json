@@ -1,6 +1,6 @@
 {
   "name": "react-native-audio-player-recorder",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React Native extension for playing and recording audio",
   "main": "index.js",
   "author": "Shinetech (https://github.com/Shinetechchina/react-native-audio-player-recorder)",
